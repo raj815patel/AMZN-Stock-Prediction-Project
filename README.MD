@@ -1,3 +1,3 @@
 # Amazon Stock Prediction Project
-### This project predicts future price of IBM stock on a certain time perdiod. A simple Linear Regression and Decision Tree machine learning algorithtm is used. 
+### This project predicts future price of Amazon stock on a certain time period. A simple Decision Tree machine learning algorithtm is used to predict future price of the stock based on historical data
 
